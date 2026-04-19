@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**SHRESHTHASHREE/SHRESHTHASHREE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi, I'm Jannu Hans
+🚀 Full Stack Developer | Machine Learning Enthusiast | Competitive Programmer
+   
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+🏡 From Prayagraj, India
+🎓 Pursuing B.Tech at IET Lucknow (2023–2027)
+💼 Currently Resprentative at IET Lucknow’s Placement Cell
+💡 I love solving complex problems, building end-to-end products, and optimizing systems
+🎯 Currently exploring Web integration using modern frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🧠 Skills & Tools
+Languages: C/C++, JavaScript, SQL, HTML, CSS
+Frameworks & Tools: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Git
+Core Areas: Data Structures, Algorithms, DBMS, OS, OOPs, REST APIs
+Other Interests: Machine Learning, Data Visualization, Web Scraping, Cloud Deployment
+
