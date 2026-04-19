@@ -1,7 +1,7 @@
 ## Hi there 👋
 
- Hi, I'm Jannu Hans
-🚀 Full Stack Developer | Machine Learning Enthusiast | Competitive Programmer
+ Hi, I'm Shreshtha Shree
+🚀 Full Stack Developer  | Competitive Programmer \\
    
 
 👨‍💻 About Me
@@ -9,7 +9,7 @@
 🎓 Pursuing B.Tech at IET Lucknow (2023–2027)
 💼 Currently Resprentative at IET Lucknow’s Placement Cell
 💡 I love solving complex problems, building end-to-end products, and optimizing systems
-🎯 Currently exploring Web integration using modern frameworks
+🎯 Currently exploring Web integration using modern frameworks\\
 
 
 🧠 Skills & Tools
